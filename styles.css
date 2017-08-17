@@ -1,0 +1,10 @@
+body{
+    background-color: silver;
+}
+header{
+    background-color: greenyellow; /*This is a comment*/
+    color: white;
+}
+section{
+    color: green;
+}
